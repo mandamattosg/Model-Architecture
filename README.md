@@ -47,6 +47,8 @@ Aqui foi descrito cada etapa de uma arquitetura pensada para operacionalizar um 
 * Prometheus e Grafana para Monitoramento: São as ferramentas mais utilizadas para monitoramento em tempo real. O Prometheus coleta métricas do sistema e do modelo, e o Grafana as visualiza em dashboards customizáveis, permitindo o acompanhamento do sistema e da performance do modelo em produção.
 
 ## 📚 Referências
+Serviço de Ingestão: https://www.ibm.com/think/topics/data-ingestion
+
 Armazenamento: https://docs.aws.amazon.com/whitepapers/latest/building-data-lakes/building-data-lake-aws.html
 
 MLOps: https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning
