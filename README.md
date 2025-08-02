@@ -53,4 +53,4 @@ Armazenamento: https://docs.aws.amazon.com/whitepapers/latest/building-data-lake
 
 MLOps: https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning
 
-Model Monitoring: https://www.evidentlyai.com/ml-in-production/model-monitoring
+Monitoramento do Modelo: https://www.evidentlyai.com/ml-in-production/model-monitoring
